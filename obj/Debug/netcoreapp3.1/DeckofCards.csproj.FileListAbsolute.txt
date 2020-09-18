@@ -1,0 +1,12 @@
+/Users/nhannguyen/Desktop/DeckofCards/obj/Debug/netcoreapp3.1/DeckofCards.csprojAssemblyReference.cache
+/Users/nhannguyen/Desktop/DeckofCards/obj/Debug/netcoreapp3.1/DeckofCards.AssemblyInfoInputs.cache
+/Users/nhannguyen/Desktop/DeckofCards/obj/Debug/netcoreapp3.1/DeckofCards.AssemblyInfo.cs
+/Users/nhannguyen/Desktop/DeckofCards/obj/Debug/netcoreapp3.1/DeckofCards.csproj.CoreCompileInputs.cache
+/Users/nhannguyen/Desktop/DeckofCards/bin/Debug/netcoreapp3.1/DeckofCards.deps.json
+/Users/nhannguyen/Desktop/DeckofCards/bin/Debug/netcoreapp3.1/DeckofCards.runtimeconfig.json
+/Users/nhannguyen/Desktop/DeckofCards/bin/Debug/netcoreapp3.1/DeckofCards.runtimeconfig.dev.json
+/Users/nhannguyen/Desktop/DeckofCards/bin/Debug/netcoreapp3.1/DeckofCards.dll
+/Users/nhannguyen/Desktop/DeckofCards/bin/Debug/netcoreapp3.1/DeckofCards.pdb
+/Users/nhannguyen/Desktop/DeckofCards/obj/Debug/netcoreapp3.1/DeckofCards.dll
+/Users/nhannguyen/Desktop/DeckofCards/obj/Debug/netcoreapp3.1/DeckofCards.pdb
+/Users/nhannguyen/Desktop/DeckofCards/obj/Debug/netcoreapp3.1/DeckofCards.genruntimeconfig.cache
